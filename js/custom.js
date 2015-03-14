@@ -44,9 +44,10 @@
 				infiniteLoop: false,
 				slideWidth: 360,
 				moveSlides: 1,
-				slideMargin: 30
+				slideMargin: 30,
+                auto: true,
+                pause:2000,
 			});			
-
 
 			//Elements Appear from top
 			jQuery('.animate_top').each(function() {
