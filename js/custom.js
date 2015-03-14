@@ -41,7 +41,7 @@
 				controls:false,	
 				minSlides: 1,
 				maxSlides: 3,
-				infiniteLoop: true,
+				infiniteLoop: false,
 				slideWidth: 360,
 				moveSlides: 1,
 				slideMargin: 30,
