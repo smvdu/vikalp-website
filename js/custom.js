@@ -46,7 +46,7 @@
 				moveSlides: 1,
 				slideMargin: 30,
                 auto: true,
-                pause:2000,
+                pause:4000,
 			});			
 
 			//Elements Appear from top
