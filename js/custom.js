@@ -43,10 +43,10 @@
 				maxSlides: 3,
 				infiniteLoop: false,
 				slideWidth: 360,
-				moveSlides: 1,
+				moveSlides: 3,
 				slideMargin: 30,
-                auto: true,
-                pause:4000,
+                auto: false,
+                
 			});			
 
 			//Elements Appear from top

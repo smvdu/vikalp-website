@@ -630,10 +630,6 @@ a:focus{
 	color:#fff;
 }
 
-.how_can_you_help_bg{
-	background:url(../images/sectionbg/how_can_you_help.jpg);
-}
-
 .how_can_you_help{
 	padding-bottom: 68px;
 }
@@ -921,10 +917,6 @@ fieldset{
 
 /* 11. Image gallery */	
 
-.gallery-bg{
-	background:url(../images/sectionbg/gallery.jpg);
-}
-
 .gallery{
 	/* background:#d68a82; */
 	background:RGBA(255, 255, 255, 0.8);
@@ -1000,9 +992,6 @@ p.readmore{
 
 /* 12. Contact with us */	
 
-.contact-bg{
-	background:url(../images/sectionbg/contact-with-us.jpg);
-}
 
 .contact{
 	padding-bottom: 68px;
